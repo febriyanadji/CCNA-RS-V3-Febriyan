@@ -1,3 +1,3 @@
 # CCNA RS V3 Training
-# By Febriyan Adji Pesantren Networkers 2018-2019
+# By Febriyan Adji Pesantren Networkers IDN 2018-2019
 Semoga bermanfaat :)
